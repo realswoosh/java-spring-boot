@@ -1,0 +1,3 @@
+rootProject.name = 'java-spring-boot'
+
+include 'spring-boot-jpa'
